@@ -1,2 +1,8 @@
 pandas
+numpy
+matplotlib
+seaborn
+wordcloud
 networkx
+spacy
+nltk
