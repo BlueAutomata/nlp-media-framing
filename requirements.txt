@@ -6,3 +6,5 @@ wordcloud
 networkx
 spacy
 nltk
+transformers
+protobuf
