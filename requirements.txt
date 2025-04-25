@@ -9,3 +9,4 @@ nltk
 transformers
 protobuf
 scipy
+scikit-learn
